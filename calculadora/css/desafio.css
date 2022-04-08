@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital@1&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 24px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: #A2708A ;
+  color: #48233C;
+}
+
+button {
+  color: #824670;
+  border-radius: 10px;
+  background-color: #F2B880;
+  cursor: pointer;
+}
+
+#resposta {
+  font-size: 200%;
+}
+
+#valor-hora {
+  color: #FF7F11;
+  border-radius: 15px;
+  background-color: #F6EFEE;
+  border-style: dotted;
+}
+
+#horas-projeto {
+  color: #FF7F11;
+  border-radius: 15px;
+  background-color: #F6EFEE;
+  border-style: dotted;
+}
+
+
